@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.805fbc31.css",
+    "main.js": "/static/js/main.0833e37f.js",
+    "static/media/realestate.jpg": "/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/1-min.png": "/static/media/1-min.0666b56bab03e60cdf12.png",
+    "static/media/bc-min.png": "/static/media/bc-min.7184b70e02583abb8450.png",
+    "static/media/4-min.png": "/static/media/4-min.b7f70f9928e6a06f9030.png",
+    "static/media/carXProject-min.png": "/static/media/carXProject-min.26bbceab9db2b39eb833.png",
+    "static/media/workImg.jpeg": "/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/projectImage-min.png": "/static/media/projectImage-min.4fc52b044b767eda3dfe.png",
+    "static/media/picture.jpg": "/static/media/picture.fc0e13d73ab127c9a290.jpg",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/2-min.png": "/static/media/2-min.265d5b71ba9fc9266b65.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/next1.png": "/static/media/next1.42c9fa79a4d678006a31.png",
+    "static/media/redux1.png": "/static/media/redux1.60e4bdaa357b531bb294.png",
+    "static/media/express.png": "/static/media/express.57651976dcb26522062f.png",
+    "static/media/nest1.png": "/static/media/nest1.1115f3f551ccbfff534f.png",
+    "static/media/typeorm1.png": "/static/media/typeorm1.54ee103f3a3dfe3d5d24.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.805fbc31.css",
+    "static/js/main.0833e37f.js"
+  ]
+}
