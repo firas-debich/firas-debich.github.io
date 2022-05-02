@@ -1,10 +1,9 @@
 import React from "react";
-import WorkImg from "../assets/workImg.jpeg";
-import realEstate from "../assets/realestate.jpg";
+
 import CarousselCardes from "./CarouselCards/CarousselCardes";
 import ProjectData from "../constant/ProjectConstant"
 const Work = () => {
-  console.log(ProjectData);
+  
   return (
     <div name="work" className="w-full text-gray-300 bg-[#0a192f]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full ">

@@ -57,7 +57,7 @@ const array = [
       image: image5,
       tags: ["React Native", "Tailwind css", "Nest Js", "PostgreSQL"],
       source: "https://github.com/firas-debich/carX",
-      visit: "https://expo.dev/artifacts/b7481cbc-d12e-4968-8e7c-1b07c907c1b2",
+      visit: "https://github.com/firas-debich/carX",
       id: 2,
       alt: "Carx firas debich",
     },
@@ -70,7 +70,7 @@ const array = [
       source:
         "https://github.com/firas-debich/react-native-Uber-Eats-clone/tree/main",
       visit:
-        "https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40firas_debich/UberEats-602025d23a45443b97518d82ff703a74-signed.apk",
+        "https://github.com/firas-debich/react-native-Uber-Eats-clone/tree/main",
       id: 3,
       alt: "Uber Eats firas debich",
     },
