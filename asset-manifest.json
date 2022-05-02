@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.805fbc31.css",
-    "main.js": "/static/js/main.0833e37f.js",
+    "main.js": "/static/js/main.6e284528.js",
     "static/media/realestate.jpg": "/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/1-min.png": "/static/media/1-min.0666b56bab03e60cdf12.png",
     "static/media/bc-min.png": "/static/media/bc-min.7184b70e02583abb8450.png",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.805fbc31.css",
-    "static/js/main.0833e37f.js"
+    "static/js/main.6e284528.js"
   ]
 }
