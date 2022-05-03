@@ -36,11 +36,15 @@ const Contact = () => {
       }
     try {
      setLoading(true)
+     const headers = {
+      'Content-Type': "application/json",
+  };
+
       const { data } = await axios.post(process.env.REACT_APP_API, {
         name: dataForm.name,
         email: dataForm.email,
         message: dataForm.message,
-      });
+      },headers);
       if (data) {
         setData({ name: "", email: "", message: "" });
         setSubmitted(true);
@@ -57,6 +61,7 @@ const Contact = () => {
       setSubmitted(false);
       setLoading(false)
       setError(true);
+      console.log(error);
       setMsg("An error occurred please try again")
       return setTimeout(() => {
         setSubmitted(false);
